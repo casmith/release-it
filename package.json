@@ -1,5 +1,5 @@
 {
-  "name": "release-it",
+  "name": "@csmith/release-it",
   "version": "13.7.0",
   "description": "Generic CLI tool to automate versioning and package publishing related tasks.",
   "keywords": [
